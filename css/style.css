@@ -1488,9 +1488,9 @@ figure.dotted-bg:before {
   vertical-align: text-top;
 }
 
-#message-btn {
+/* #message-btn {
   font-size: 11px;
-}
+} */
 
 .facebook #message-btn {
   background: #3a3a3a;
