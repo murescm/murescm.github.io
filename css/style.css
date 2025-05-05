@@ -1452,9 +1452,9 @@ figure.dotted-bg:before {
   background-color: transparent;
 }
 
-.facebook .profile-btn {
+/* .facebook .profile-btn {
   padding: 0 40px;
-}
+} */
 
 .profile-btn.btn-outline-pill.btn-custom-light {
   color: #fff;
