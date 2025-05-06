@@ -522,7 +522,8 @@ var loadPortfolioSinglePage = function(id, href) {
 
 var jarallaxPlugin = function() {
    $('.jarallax').jarallax({
-   speed: 0.2
+   speed: 0.2,
+   type: 'scroll-opacity'
    });
    jarallax(document.querySelectorAll('.jarallax-video'), {
    speed: 0.2,
