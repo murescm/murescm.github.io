@@ -1515,11 +1515,18 @@ figure.dotted-bg:before {
   background: #fff;
 }
 
-.facebook #message-btn:active,
-.facebook #message-btn:hover {
+.facebook #message-btn:hover,
+.facebook #message-btn:active {
   color:#fff;
   background: #232323;
   border: 3px solid #232323;
+}
+
+.WhatsApp #message-btn:hover,
+.WhatsApp #message-btn:active {
+  color:#fff;
+  background: #1b8e4d;
+  border: 3px solid #1b8e4d;
 }
 
 .counter-v1 .number-wrap {
