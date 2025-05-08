@@ -120,7 +120,7 @@ a, a:hover {
 
 .btn.btn-outline-pill.btn-custom-light {
   color: #fff;
-  border: 3px solid rgba(255, 255, 255, 0.5);
+  border: 3px solid rgba(255, 255, 255, 0.7);
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
@@ -2060,7 +2060,8 @@ figure.dotted-bg:before {
   z-index: 0;
 }
 
-.jarallax > .jarallax-img {
+.jarallax > .jarallax-img,
+picture.jarallax-img img {
   position: absolute;
   -o-object-fit: cover;
   object-fit: cover;
